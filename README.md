@@ -29,3 +29,5 @@ Claude: Just hit me up on Telegram, I'll sort it out.
 Him: I don't have Telegram...
 
 Claude: ... This does not bode well.
+
+  - [huiyu-safe-ai](https://github.com/huiyu9144/huiyu-safe-ai) - Lightweight AI security guard for install/download commands. Blocks 68+ malicious packages, verifies identity, scans code in <1s with zero overhead. Built from a real supply chain attack.
